@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViewPager2</string>
+    <string name="btn_vertical">纵向</string>
+    <string name="btn_horizontal">横向</string>
+    <string name="viewpager2_tab_layout">ViewPager 2 与 TabLayout 混用</string>
+    <string name="viewpager2_radiobutton">ViewPager 2 与 RadioButton 混用</string>
+    <string name="home">首页</string>
+    <string name="msg">消息</string>
+    <string name="my">我的</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
