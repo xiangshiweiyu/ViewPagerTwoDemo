@@ -509,6 +509,6 @@ public class ShowFragment extends Fragment {
 ![提交 bug](https://upload-images.jianshu.io/upload_images/6433394-d955bcc667d38d77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 现在陡然觉得，学英语真有用。
-##  四、源码
-闲话不多说了把源码贴上
-
+##  四、博客地址
+献上博客地址欢迎大佬们指点，挑错。
+[博客地址](https://www.jianshu.com/u/2e5d001fdc4c)
