@@ -6,7 +6,7 @@
 ![全部效果](https://upload-images.jianshu.io/upload_images/6433394-398b118b017a5d85.gif?imageMogr2/auto-orient/strip)
 
 ## 二、介绍必要基础知识
-#####1、ViewPager 与 ViewPager2 部分对比
+##### 1、ViewPager 与 ViewPager2 部分对比
 ViewPager|ViewPager 2
 --|:--:
 PagerAdapter|RecyclerView.Adapter
